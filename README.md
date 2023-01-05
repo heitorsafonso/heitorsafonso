@@ -15,8 +15,7 @@
 <a href="https://www.linkedin.com/in/heitor-santos-afonso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ##
 <!--https://github.com/anuraghazra/github-readme-stats-->
-<div align="center">
-  <a href="https://github.com/heitorsafonso">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorsafonso&layout=compact&langs_count=7&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorsafonso&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
